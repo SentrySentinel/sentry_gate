@@ -1,6 +1,5 @@
 # sentry_gate
 
-## Description: 
 This Python program takes the RFID provided by the connected USB RFID reader and sends it to our lambda function using a Sentinel API call. The response is then parsed to determine if the door control should be unlocked.
 
 ## How To Use:
